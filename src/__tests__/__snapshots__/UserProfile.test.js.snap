@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check for the userPorfile component 1`] = `
+<React.Fragment>
+  <ForwardRef(Container)
+    maxWidth="sm"
+  >
+    <ForwardRef(Card)
+      sx={
+        Object {
+          "maxWidth": "100%",
+        }
+      }
+    >
+      <ForwardRef(CardHeader)
+        avatar={
+          <ForwardRef(Avatar)
+            aria-label="recipe"
+            sx={
+              Object {
+                "bgcolor": "red",
+              }
+            }
+          />
+        }
+      />
+      <ForwardRef(CardContent)>
+        <ForwardRef(List)
+          sx={
+            Object {
+              "bgcolor": "background.paper",
+              "maxWidth": 360,
+              "width": "100%",
+            }
+          }
+        >
+          <ForwardRef(ListItem)
+            button={true}
+          >
+            <ForwardRef(ListItemIcon)>
+              <Memo />
+            </ForwardRef(ListItemIcon)>
+            <ForwardRef(ListItemText) />
+          </ForwardRef(ListItem)>
+          <ForwardRef(Divider) />
+          <ForwardRef(ListItem)
+            button={true}
+          >
+            <ForwardRef(ListItemIcon)>
+              <Memo />
+            </ForwardRef(ListItemIcon)>
+            <ForwardRef(ListItemText) />
+          </ForwardRef(ListItem)>
+          <ForwardRef(Divider) />
+          <ForwardRef(ListItem)
+            button={true}
+          >
+            <ForwardRef(ListItemIcon)>
+              <Memo />
+            </ForwardRef(ListItemIcon)>
+            <ForwardRef(ListItemText) />
+          </ForwardRef(ListItem)>
+          <ForwardRef(Divider) />
+        </ForwardRef(List)>
+      </ForwardRef(CardContent)>
+    </ForwardRef(Card)>
+  </ForwardRef(Container)>
+</React.Fragment>
+`;

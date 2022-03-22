@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check for the userPorfile component 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="userDetailsContainer"
+  >
+    <UserProfile />
+  </div>
+  <div
+    className="userPostsContainer"
+  >
+    <UserPosts />
+  </div>
+  <div
+    className="userAlbumsContainer"
+  >
+    <AlbumList />
+  </div>
+</div>
+`;

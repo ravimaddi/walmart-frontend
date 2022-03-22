@@ -1,0 +1,27 @@
+.container {
+    width: 80%;
+    padding: 20px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.userDetailsContainer {
+    width: 100%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.userPostsContainer {
+    width: 55%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.userAlbumsContainer {
+    width: 55%;
+    margin: 20px;
+    padding: 20px;
+}
